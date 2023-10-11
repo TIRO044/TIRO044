@@ -2,6 +2,8 @@ Programmer
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TIRO044&show_icons=true&theme=radical)
+
 --- 
 
 <!--
