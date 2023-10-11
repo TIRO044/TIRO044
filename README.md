@@ -3,11 +3,12 @@
 > 부족한 것을 채워나가는 게 즐어운 프로그래머
 
 
-___
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TIRO044&show_icons=true&theme=calm)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TIRO044&repo=github-readme-stats)]
+<div align="left">
+<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=html5&logoColor=white">
+</div>
 
 <!--
 **TIRO044/TIRO044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
