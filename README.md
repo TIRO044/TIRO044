@@ -1,6 +1,6 @@
 # 내 깃헙 어떤데!!
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=150&text=Hellow%20Code%20Mungtaeng-i%20World&fontColor=C5715D&fontSize=30&fontAlign=40&stroke=594A54&fontAlignY=30&desc=by%20tiro044&descAlignY=50&descAlignX=90&descSize=12)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=150&text=Hellow%20Code%20Mungtaeng-i%20World&fontColor=C5715D&fontSize=30&fontAlign=40&stroke=594A54&fontAlignY=30)
 
 ### 먹고사는 기술
 
@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/androidstudio-000000?style=for-the-badge&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/teamcity-000000?style=for-the-badge&logo=teamcity&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white">
 </div>
 
 
@@ -26,6 +28,7 @@
 <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/swift-000000?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/cplusplus-000000?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </div>
 
 <br><br>
