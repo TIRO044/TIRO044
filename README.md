@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=150&text=Brogrammer&fontColor=C5715D&fontSize=30&fontAlign=40&stroke=594A54&fontAlignY=30&desc=의%20코드%20뭉탱이&descAlignY=50&descAlignX=90&descSize=12)
 
-<br>
-
 ### 먹고사는 기술
 
 <div align="left">
