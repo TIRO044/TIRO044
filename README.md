@@ -1,6 +1,6 @@
 # 내 깃헙 어떤데!!
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=150&text=Brogrammer&fontColor=C5715D&fontSize=30&fontAlign=40&stroke=594A54&fontAlignY=30&desc=의%20코드%20뭉탱이&descAlignY=50&descAlignX=90&descSize=12)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=150&text=Hellow%20Code%20Mungtaeng-i&fontColor=C5715D&fontSize=30&fontAlign=40&stroke=594A54&fontAlignY=30&desc=by%20tiro044&descAlignY=50&descAlignX=90&descSize=12)
 
 ### 먹고사는 기술
 
