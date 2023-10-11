@@ -11,11 +11,20 @@
 <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
+<div align="left">
+<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/rider-000000?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/androidstudio-000000?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/teamcity-000000?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=html5&logoColor=white">
+</div>
+
+
 ### 관심사
 
 <div align="left">
 <img src="https://img.shields.io/badge/godotengine-000000?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/androidstudio-000000?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/swift-000000?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
